@@ -1,0 +1,5 @@
+numero = float (input ("Informe seu valor desejado: "))
+metade = float (numero / 2)
+dobro = float (numero * 2)
+triplo = float (numero * 3)
+print ("Seu valor: {}. Sua metade: {}. Dobro do valor: {}. Triplo do valor: {}".format (numero,metade,dobro,triplo))
